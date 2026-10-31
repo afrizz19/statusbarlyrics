@@ -1,0 +1,20 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+/app/build/
+/app/release/
+
+# Claude Code settings (user-specific)
+/.claude/
+
+# VS Code settings (user-specific)
+/.vscode/
+
+# Diagnostic logs
+/_diag/
